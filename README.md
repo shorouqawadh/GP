@@ -1,5 +1,4 @@
 # GP
-# NU-store
 to run our project, please follow the following steps:
 to try Student Application:
 1- download the (nu_shopping-5.zip) file
